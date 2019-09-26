@@ -1,0 +1,18 @@
+h2 { font-weight:bold; font-size:2rem; color: #132554 }
+h3 { font-weight:bold; font-size:1.5; color: #132554 }
+
+p { line-height: 2rem; }
+
+.row { margin-top: 5rem; }
+
+#header { 
+	background-image: url('images/Vector-1.png');
+	background-size:cover;
+	background-position: center;
+}
+
+#about-us { 
+	background-image: url('images/Vector.png');
+	background-size:300%;
+	background-position: center;
+}
